@@ -5,4 +5,5 @@
 * My time zone is UTC+3:00 🇷🇺
 
 #### Here is my **[YouTube](https://www.youtube.com/@DipCrai)** channel, subscribe!
+#### Also join my **[Discord](https://discord.com/invite/SyM2UZEXXG)** channel
 ----
