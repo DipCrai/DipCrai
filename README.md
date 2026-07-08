@@ -9,8 +9,10 @@
 </td></tr>
 <tr><td>
 <table>
-<tr><td>
+<tr><td align="center">
+────────────────────────────────────────────────────────────────────────────────────
 <br>
+<b>INFO</b><br>
 <table>
 <tr><td><b>SUBJECT:</b></td><td>DipCrai</td></tr>
 <tr><td><b>REAL NAME:</b></td><td>Ivan</td></tr>
@@ -75,7 +77,7 @@
 <br>
 <b>FAVOURITE QUOTE</b><br>
 <table><tr><td><b>Life is the best storyteller</b></td></tr></table>
-<br>
+────────────────────────────────────────────────────────────────────────────────────
 </td></tr>
 </table>
 </td></tr>
