@@ -20,7 +20,7 @@
 <br>
 <b>SYSTEM</b><br>
 <table>
-<tr><td><b>OS</b></td><td>Artix (OpenRC)</td></tr>
+<tr><td><b>OS</b></td><td>Arch Linux</td></tr>
 <tr><td><b>CPU</b></td><td>Intel Core i5 12400f</td></tr>
 <tr><td><b>GPU</b></td><td>GTX 1080ti</td></tr>
 <tr><td><b>DISPLAY</b></td><td>2560x1440@120</td></tr>
