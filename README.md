@@ -64,7 +64,7 @@
 <b>PHOTO GEAR</b><br>
 <table>
 <tr><td><b>CAMERA</b></td><td>Nikon D600</td></tr>
-<tr><td><b>LENS</b></td><td>Nikkor 80–400mm AF-D ED VR</td></tr>
+<tr><td><b>LENS</b></td><td>Nikkor 80-400mm AF-D ED VR</td></tr>
 </table>
 <br>
 <b>GOALS</b><br>
