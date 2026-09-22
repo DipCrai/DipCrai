@@ -40,7 +40,7 @@
 <tr>
 <td><b><a href="https://github.com/ItsABigIgloo/caelestia-sddm">caelestia-sddm</a></b></td>
 <td><b><a href="https://github.com/LizardByte/Sunshine">Sunshine</a></b></td>
-<td><b><a href="https://github.com/AyuGram">AyuGram</a></b></td>
+<td><b><a href="https://github.com/exteraless/exteraless">exteraless</a></b></td>
 </tr>
 </tr></table>
 <br>
