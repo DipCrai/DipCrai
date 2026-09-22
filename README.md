@@ -36,7 +36,7 @@
 <table><tr>
 <td><b><a href="https://github.com/DipCrai/Meeteract">Meeteract</a></b></td>
 <td><b><a href="https://github.com/DipCrai/Day2Day">Day2Day</a></b></td>
-<td><b><a href="https://github.com/DipCrai/compatd">compatd</a></b></td>
+<td><b><a href="https://github.com/DipCrai/Fooosti">Fooosti</a></b></td>
 <tr>
 <td><b><a href="https://github.com/ItsABigIgloo/caelestia-sddm">caelestia-sddm</a></b></td>
 <td><b><a href="https://github.com/LizardByte/Sunshine">Sunshine</a></b></td>
